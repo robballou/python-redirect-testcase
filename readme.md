@@ -7,6 +7,7 @@ provide tests for link specific checks.
 
 ## Example
 
-See the provided `example.py` script for sample usage.
+See the provided [`example.py` script][example] for sample usage.
 
+[example]: https://github.com/robballou/python-redirect-testcase/blob/master/example.py
 [unittest]: http://docs.python.org/2/library/unittest.html
